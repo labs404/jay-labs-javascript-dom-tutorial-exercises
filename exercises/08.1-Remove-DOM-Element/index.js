@@ -4,3 +4,5 @@
 // Your code here
 let elem = document.querySelector("#secondElement");
 elem.parentNode.removeChild(elem);
+
+//jay's commit

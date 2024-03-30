@@ -25,4 +25,6 @@ function deleteTask(event) {
     }
 }
 
-toDoList.addEventListener("click", deleteTask
+toDoList.addEventListener("click", deleteTask)
+
+//jay's commit
